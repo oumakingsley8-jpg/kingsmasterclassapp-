@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>King’s Masterclass: Business, Entrepreneurship & Agripreneurship</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>King’s Masterclass</h1>
+        <p>Business, Entrepreneurship & Agripreneurship – Full Notes</p>
+        <input type="text" id="searchInput" placeholder="Search notes...">
+        <button id="darkModeToggle">Toggle Dark Mode</button>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#module1">Module 1: Foundations of Success</a></li>
+            <li><a href="#module2">Module 2: Business Fundamentals</a></li>
+            <li><a href="#module3">Module 3: Entrepreneurship Tactics</a></li>
+            <li><a href="#module4">Module 4: Agripreneurship Mastery</a></li>
+            <li><a href="#module5">Module 5: Competition & Market Domination</a></li>
+            <li><a href="#module6">Module 6: Advanced Strategies for Scale & Tycoon Status</a></li>
+            <li><a href="#module7">Module 7: Wealth & Power Architecture</a></li>
+            <li><a href="#module8">Module 8: Mind of a Legend</a></li>
+            <li><a href="#module9">Module 9: Tycoon System</a></li>
+            <li><a href="#module10">Module 10: Secret Tactics & Insider Secrets</a></li>
+            <li><a href="#module11">Module 11: Daily Routines & Systems of Winners</a></li>
+            <li><a href="#module12">Module 12: Legacy & Empire</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="module1" class="module">
+            <button class="accordion">Module 1 — Foundations of Success</button>
+            <div class="panel">
+                <h2>Mindset & Psychology</h2>
+                <ul>
+                    <li>Growth mindset: believe skills, intelligence, and abilities can be developed through effort, learning, and perseverance.</li>
+                    <li>Fixed mindset: belief that intelligence or talent is static—avoids challenges, fears failure.</li>
+                    <li>Failure mastery: every failure is data; analyze, adjust, execute.</li>
+                    <li>Resilience: ability to recover from setbacks quickly; mental toughness is a habit.</li>
+                    <li>Discipline: consistent action in alignment with goals; wins over motivation.</li>
+                    <li>Visionary thinking: see opportunities where others see obstacles; long-term planning.</li>
+                    <li>Abundance mentality: focus on creating value, not competing for limited resources.</li>
+                </ul>
+                <h2>Self-Mastery & Productivity</h2>
+                <ul>
+                    <li>Time management: prioritize high-impact tasks, plan days, eliminate distractions.</li>
+                    <li>Energy management: sleep, exercise, nutrition; align work with peak energy.</li>
+                    <li>Deep work: long periods of uninterrupted focus on complex tasks.</li>
+                    <li>Decision frameworks: analyze options quickly; avoid indecision.</li>
+                    <li>Habit engineering: build systems, not just goals.</li>
+                    <li>Personal leadership: hold yourself accountable; self-directed action.</li>
+                    <li>Emotional intelligence: recognize, control, and influence emotions in self and others.</li>
+                </ul>
+                <h2>Tycoon Identity</h2>
+                <ul>
+                    <li>Personal brand: reputation, consistency, and presence in your field.</li>
+                    <li>Influence: communicate ideas persuasively; inspire action.</li>
+                    <li>Public speaking: clarity, confidence, storytelling.</li>
+                    <li>Networking: strategic connections; quality > quantity.</li>
+                    <li>Integrity: trustworthiness builds leverage and opportunities.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module2" class="module">
+            <button class="accordion">Module 2 — Business Fundamentals</button>
+            <div class="panel">
+                <h2>The Business Field</h2>
+                <ul>
+                    <li>Market understanding: size, trends, demand.</li>
+                    <li>Gap analysis: find opportunities competitors ignore.</li>
+                    <li>Competitive intelligence: track rivals, anticipate moves.</li>
+                    <li>Positioning: unique value proposition; differentiate to dominate.</li>
+                </ul>
+                <h2>Business Models & Formation</h2>
+                <ul>
+                    <li>Trading: buy low, sell high; focus on margins.</li>
+                    <li>Service: monetize skills; scalability requires systemization.</li>
+                    <li>Manufacturing: transform raw materials; efficiency and quality are key.</li>
+                    <li>Subscription: recurring revenue model; build customer loyalty.</li>
+                    <li>Platform: connect buyers and sellers; network effects grow value.</li>
+                    <li>Franchise: replicate a proven system; maintain standards.</li>
+                </ul>
+                <h2>Operations & Management</h2>
+                <ul>
+                    <li>Production workflow: optimize efficiency and quality.</li>
+                    <li>Supply chain: raw materials → production → delivery → customers.</li>
+                    <li>Standard Operating Procedures (SOPs): reduce errors, scale operations.</li>
+                    <li>Lean principles: eliminate waste, maximize value.</li>
+                    <li>Technology leverage: automation, software, data systems.</li>
+                </ul>
+                <h2>Finance & Wealth Mastery</h2>
+                <ul>
+                    <li>Accounting: track cash flow, profit, liabilities.</li>
+                    <li>Cash flow management: money in/out timing > profit alone.</li>
+                    <li>Budgeting: allocate funds to high-impact areas.</li>
+                    <li>Investments: diversify for growth and protection.</li>
+                    <li>Funding & raising capital: investors, loans, grants.</li>
+                    <li>Risk management: insurance, hedging, contingency plans.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module3" class="module">
+            <button class="accordion">Module 3 — Entrepreneurship Tactics</button>
+            <div class="panel">
+                <h2>Strategy & Planning</h2>
+                <ul>
+                    <li>Competitive advantage: unique capabilities that competitors cannot copy.</li>
+                    <li>SWOT analysis: identify strengths, weaknesses, opportunities, threats.</li>
+                    <li>PESTEL analysis: understand macro-environmental factors.</li>
+                    <li>Scenario planning: prepare for multiple outcomes.</li>
+                    <li>Pivot strategy: flexibility to change direction when necessary.</li>
+                </ul>
+                <h2>Marketing & Branding</h2>
+                <ul>
+                    <li>Brand positioning: how you want your customers to perceive you.</li>
+                    <li>Storytelling: emotional connection; influence decisions.</li>
+                    <li>Pricing strategies: value-based, penetration, premium, discount.</li>
+                    <li>Marketing funnels: attract → engage → convert → retain.</li>
+                    <li>Digital marketing: social media, SEO, content, ads.</li>
+                    <li>Guerrilla marketing: low-cost, high-impact campaigns.</li>
+                    <li>PR & media influence: manage public perception.</li>
+                </ul>
+                <h2>Sales & Customer Domination</h2>
+                <ul>
+                    <li>Sales psychology: understanding human decision-making.</li>
+                    <li>Lead generation: identifying potential customers.</li>
+                    <li>Conversion strategies: closing deals effectively.</li>
+                    <li>Customer retention: repeat business, loyalty programs.</li>
+                    <li>Negotiation: win-win approach to maximize value.</li>
+                    <li>Closing techniques: urgency, scarcity, clear value proposition.</li>
+                </ul>
+                <h2>Innovation & Product Development</h2>
+                <ul>
+                    <li>Ideation: generate multiple solutions, test ideas.</li>
+                    <li>MVP (Minimum Viable Product): test market before full launch.</li>
+                    <li>Iteration: improve products based on feedback.</li>
+                    <li>Differentiation: stand out with unique value.</li>
+                    <li>Scaling: systems to grow without losing quality.</li>
+                    <li>Intellectual property: patents, trademarks, copyrights.</li>
+                </ul>
+                <h2>Leadership & Team Building</h2>
+                <ul>
+                    <li>Recruiting: hire for skill, mindset, and cultural fit.</li>
+                    <li>Coaching & mentoring: develop talent internally.</li>
+                    <li>Motivation: incentives, recognition, and purpose.</li>
+                    <li>Culture: defines behavior and results.</li>
+                    <li>Conflict management: resolve disputes efficiently.</li>
+                    <li>Delegation: empower others while retaining control.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module4" class="module">
+            <button class="accordion">Module 4 — Agripreneurship Mastery</button>
+            <div class="panel">
+                <h2>Foundations</h2>
+                <ul>
+                    <li>Agricultural ecosystem: crops, livestock, soil, water, climate.</li>
+                    <li>Crop selection: market demand-driven.</li>
+                    <li>Livestock: profitability, breeding, health.</li>
+                    <li>Sustainable farming: maximize output while preserving resources.</li>
+                    <li>Land & soil management: preparation, fertility, rotation.</li>
+                    <li>Modern agritech: drones, sensors, smart irrigation.</li>
+                </ul>
+                <h2>Value Addition & Processing</h2>
+                <ul>
+                    <li>Transform raw products into higher-value goods.</li>
+                    <li>Packaging & branding to increase market appeal.</li>
+                    <li>Food safety & quality standards.</li>
+                    <li>Diversification: multiple products to reduce risk.</li>
+                    <li>Agro-processing: flour, snacks, feed, juice, oils.</li>
+                </ul>
+                <h2>Supply Chain & Distribution</h2>
+                <ul>
+                    <li>Logistics: transport, storage, cold chain.</li>
+                    <li>Market linkages: wholesalers, retailers, direct sales.</li>
+                    <li>Export readiness: compliance, standards, international demand.</li>
+                </ul>
+                <h2>Finance in Agribusiness</h2>
+                <ul>
+                    <li>Access to funding: banks, investors, grants.</li>
+                    <li>Crop/livestock insurance.</li>
+                    <li>Costing & pricing for profitability.</li>
+                    <li>Government policies: subsidies, incentives, support programs.</li>
+                </ul>
+                <h2>Innovation</h2>
+                <ul>
+                    <li>Smart irrigation, vertical farming, hydroponics.</li>
+                    <li>Sustainable solutions for climate resilience.</li>
+                    <li>Agri-digital platforms for efficiency.</li>
+                    <li>Mechanization to reduce labor and increase output.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module5" class="module">
+            <button class="accordion">Module 5 — Competition & Market Domination</button>
+            <div class="panel">
+                <ul>
+                    <li>Competitor analysis & benchmarking.</li>
+                    <li>Niche domination: own a segment before expansion.</li>
+                    <li>Pricing & value strategies to outmaneuver rivals.</li>
+                    <li>Customer loyalty systems: retention > acquisition.</li>
+                    <li>Strategic alliances: partnerships to expand influence.</li>
+                    <li>Negotiation & influence at high-stakes levels.</li>
+                    <li>Crisis exploitation: turning challenges into opportunities.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module6" class="module">
+            <button class="accordion">Module 6 — Advanced Strategies for Scale & Tycoon Status</button>
+            <div class="panel">
+                <ul>
+                    <li>Scale systematically: replicate successful systems.</li>
+                    <li>Franchising & licensing: expand without overextending.</li>
+                    <li>Automation & delegation: free time, multiply impact.</li>
+                    <li>Mergers & acquisitions: acquire growth instead of starting from zero.</li>
+                    <li>Global expansion & export mastery.</li>
+                    <li>Data-driven decisions: analytics for predictive strategy.</li>
+                    <li>Build ecosystems, not just isolated companies.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module7" class="module">
+            <button class="accordion">Module 7 — Wealth & Power Architecture</button>
+            <div class="panel">
+                <ul>
+                    <li>Asset vs liability: grow assets, minimize liabilities.</li>
+                    <li>Investment portfolios: stocks, real estate, businesses.</li>
+                    <li>Tax strategy: legal protection and optimization.</li>
+                    <li>Influence: media, thought leadership, public presence.</li>
+                    <li>Legacy creation: wealth beyond personal consumption.</li>
+                    <li>Philanthropy: strategic social impact enhances reputation.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module8" class="module">
+            <button class="accordion">Module 8 — Mind of a Legend</button>
+            <div class="panel">
+                <ul>
+                    <li>Visionary thinking: decades ahead, anticipate trends.</li>
+                    <li>Crisis management: handle stress and uncertainty like a pro.</li>
+                    <li>Negotiation with global-level players.</li>
+                    <li>Emotional control & energy mastery.</li>
+                    <li>Reinvention: adapt to market and personal growth.</li>
+                    <li>Legacy mindset: beyond wealth, beyond fame, lasting impact.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module9" class="module">
+            <button class="accordion">Module 9 — Tycoon System</button>
+            <div class="panel">
+                <ul>
+                    <li>Build interconnected businesses: synergy multiplies value.</li>
+                    <li>Multiple revenue streams: stability and growth.</li>
+                    <li>Talent pipelines: ensure future leadership.</li>
+                    <li>Market intelligence: predict competitors’ moves.</li>
+                    <li>Continuous improvement: refine systems, products, and teams.</li>
+                    <li>Reputation & influence: leverage credibility for opportunities.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module10" class="module">
+            <button class="accordion">Module 10 — Secret Tactics & Insider Secrets</button>
+            <div class="panel">
+                <ul>
+                    <li>Ethical market influence and timing.</li>
+                    <li>Psychological pricing & scarcity strategies.</li>
+                    <li>Competitive intelligence: know rivals better than they know themselves.</li>
+                    <li>Strategic partnerships and leverage deals.</li>
+                    <li>Crisis exploitation: profit when others panic.</li>
+                    <li>Dominating niches quietly before competitors notice.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module11" class="module">
+            <button class="accordion">Module 11 — Daily Routines & Systems of Winners</button>
+            <div class="panel">
+                <ul>
+                    <li>Morning routines of top tycoons.</li>
+                    <li>Daily high-impact habits.</li>
+                    <li>Weekly, monthly, yearly planning.</li>
+                    <li>KPI tracking for business and personal performance.</li>
+                    <li>Decision-making checklists.</li>
+                    <li>Continuous learning systems.</li>
+                    <li>Execution frameworks to scale success daily.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="module12" class="module">
+            <button class="accordion">Module 12 — Legacy & Empire</button>
+            <div class="panel">
+                <ul>
+                    <li>Leave impact beyond money.</li>
+                    <li>Build brands, companies, systems that last generations.</li>
+                    <li>Mentorship & talent development.</li>
+                    <li>Community and social influence.</li>
+                    <li>Succession planning.</li>
+                    <li>Dynasty building strategies.</li>
+                    <li>Becoming a remembered global icon.</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Compiled for personal use. © Kingsley 2026</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
